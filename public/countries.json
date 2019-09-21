@@ -1,0 +1,394 @@
+[
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da10c",
+        "name": "1950"
+      },
+      {
+        "_id": "5d78366506a42bde543da109",
+        "name": "1930"
+      }
+    ],
+    "_id": "5d7837ac06a42bde543da11e",
+    "name": "Uruguay",
+    "description": "País chiquito"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da113",
+        "name": "1978"
+      },
+      {
+        "_id": "5d78366506a42bde543da115",
+        "name": "1986"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f4",
+    "name": "Argentina",
+    "description": "Laaaaaargentina"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da10e",
+        "name": "1958"
+      },
+      {
+        "_id": "5d78366506a42bde543da10f",
+        "name": "1962"
+      },
+      {
+        "_id": "5d78366506a42bde543da111",
+        "name": "1970"
+      },
+      {
+        "_id": "5d78366506a42bde543da117",
+        "name": "1994"
+      },
+      {
+        "_id": "5d78366506a42bde543da119",
+        "name": "2002"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f5",
+    "name": "Brasil",
+    "description": "O mais grande do mondo!"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da10a",
+        "name": "1934"
+      },
+      {
+        "_id": "5d78366506a42bde543da10b",
+        "name": "1938"
+      },
+      {
+        "_id": "5d78366506a42bde543da114",
+        "name": "1982"
+      },
+      {
+        "_id": "5d78366506a42bde543da11a",
+        "name": "2006"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f6",
+    "name": "Italia",
+    "description": "Capeletti!"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da10d",
+        "name": "1954"
+      },
+      {
+        "_id": "5d78366506a42bde543da112",
+        "name": "1974"
+      },
+      {
+        "_id": "5d78366506a42bde543da116",
+        "name": "1990"
+      },
+      {
+        "_id": "5d78366506a42bde543da11c",
+        "name": "2014"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f7",
+    "name": "Alemania",
+    "description": "Blitz!"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da11b",
+        "name": "2010"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f8",
+    "name": "España",
+    "description": "A tomar por culo!"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da118",
+        "name": "1998"
+      },
+      {
+        "_id": "5d78366506a42bde543da11d",
+        "name": "2018"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35f9",
+    "name": "Francia",
+    "description": "Vogue"
+  },
+  {
+    "wasChampionIn": [
+      {
+        "_id": "5d78366506a42bde543da110",
+        "name": "1966"
+      }
+    ],
+    "_id": "5d730f365eb58cb3f08e35fa",
+    "name": "Inglaterra",
+    "description": "Fuck off!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e35fb",
+    "name": "Belgica",
+    "description": "Bruselas"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e35fc",
+    "name": "Bolivia",
+    "description": "Evo"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e35fd",
+    "name": "Chile",
+    "description": "Dale huevon!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e35fe",
+    "name": "Mexico",
+    "description": "Vamos cabrones!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e35ff",
+    "name": "Paraguay",
+    "description": "Paraguaiiiiii"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3600",
+    "name": "Peru",
+    "description": "Incas"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3601",
+    "name": "Rumania",
+    "description": "Vampiros"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3602",
+    "name": "Yugoslavia",
+    "description": "No existe más"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3603",
+    "name": "Austria",
+    "description": "Lado B de Alemania"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3604",
+    "name": "Checolosvaquia",
+    "description": "No existe más v2"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3605",
+    "name": "Egipto",
+    "description": "Farones"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3606",
+    "name": "Hungria",
+    "description": "Esta dificil de vivir ahí... creo"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3607",
+    "name": "Paises Bajos",
+    "description": "Nunca pudieron llegar a nada"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3608",
+    "name": "Suecia",
+    "description": "Suecos!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3609",
+    "name": "Suiza",
+    "description": "La suiza de Europa!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360a",
+    "name": "Cuba",
+    "description": "Copacabana y años 60"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360b",
+    "name": "Indias Orientales Neerlandesas",
+    "description": "Whaaaaaaaat?"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360c",
+    "name": "Noruega",
+    "description": "En el norte"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360d",
+    "name": "Polonia",
+    "description": "Varsovia"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360e",
+    "name": "Alemania Federal",
+    "description": "Alemania v2"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e360f",
+    "name": "Alemania Democratica",
+    "description": "Alemania v3"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3610",
+    "name": "Corea del Sur",
+    "description": "Coreanos bien"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3611",
+    "name": "Escocia",
+    "description": "Whisky!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3612",
+    "name": "Turquía",
+    "description": "Otomanos"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3613",
+    "name": "Gales",
+    "description": "Wales"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3614",
+    "name": "Irlanda del Norte",
+    "description": "Irlanda alcahueta"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3615",
+    "name": "Union Sovieta",
+    "description": "Sos Rusia Ahora"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3616",
+    "name": "Bulgaria",
+    "description": "Supongo que esta bien"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3617",
+    "name": "Colombia",
+    "description": "Café"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3618",
+    "name": "Corea del Norte",
+    "description": "Coreanos malos"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3619",
+    "name": "Portugal",
+    "description": "Al lado de España"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361a",
+    "name": "El Salvador",
+    "description": "Esta bravo"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361b",
+    "name": "Israel",
+    "description": "Judios!"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361c",
+    "name": "Marruecos",
+    "description": "Casablanca"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361d",
+    "name": "Australia",
+    "description": "El rival en el repechaje"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361e",
+    "name": "Haití",
+    "description": "Esta bravo v2"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e361f",
+    "name": "Zaire",
+    "description": "No se nada de vos"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3620",
+    "name": "Iran",
+    "description": "Esta bravo v3"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3621",
+    "name": "Tunez",
+    "description": "Primavera arabe?"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3622",
+    "name": "Argelia",
+    "description": "Lucho con los franceses"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3623",
+    "name": "Honduras",
+    "description": "Esta bravo v4"
+  },
+  {
+    "wasChampionIn": [],
+    "_id": "5d730f365eb58cb3f08e3624",
+    "name": "Kuwait",
+    "description": "Kuwait!"
+  }
+]
