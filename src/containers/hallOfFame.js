@@ -26,7 +26,7 @@ function HallOfFame() {
         <div className="columns">
           <div className="column">
             <div className="table-container">
-              <table className="table is-fullwidth">
+              <table className="table is-fullwidth is-hoverable">
                 <thead>
                   <tr>
                     <th>ID</th>

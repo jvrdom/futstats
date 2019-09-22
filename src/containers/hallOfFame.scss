@@ -7,3 +7,9 @@
 @import '~bulma/sass/elements/image';
 @import '~bulma/sass/elements/table';
 @import '~bulma/sass/components/card';
+
+table {
+  tr {
+    cursor: pointer;
+  }
+}
