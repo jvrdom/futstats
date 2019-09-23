@@ -18,4 +18,4 @@ yarn start
 * [React Hooks](https://es.reactjs.org/docs/hooks-intro.html)
 * [React Prop Types](https://es.reactjs.org/docs/typechecking-with-proptypes.html)
 * [Bulma](https://bulma.io/)
-* [Recharts] (http://recharts.org/en-US/)
+* [Recharts](http://recharts.org/en-US/)
